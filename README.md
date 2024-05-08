@@ -2,7 +2,7 @@
 Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 > version -- 1.0.0
 
-_Commands (комманды):
+### _Commands (комманды):
  1. **Admin Commands**
 * `/AddPremium`
 * `/RemovePremium`
@@ -16,7 +16,7 @@ _Commands (комманды):
 * `/GitHub`
 * `/YouTube`
 * `/Discord`
- 4. **Moderation Commands**
+ 4. **Moderation <sup>Commands</sup>**
 * `/JoinVoice`
 * `/LeaveVoice`
 * `/Ban`
@@ -27,7 +27,8 @@ _Commands (комманды):
 * `/Warn`
 * `/ClearWarns`
 * `/Clear`
- 5. **Other Commands**
+  1) ~~***Automod***~~
+ 5. **Other <sup>Commands</sup>**
 * `/ServerInfo`
 * `/UserInfo`
 * `/UserAvatar`
