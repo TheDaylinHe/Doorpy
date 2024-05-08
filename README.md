@@ -51,4 +51,5 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 ```
 * `/FoggyNightGame`
 ```
-![doorpy.bot]([https://myoctocat.com/assets/images/base-octocat.svg](https://media.discordapp.net/attachments/1204769050392010822/1237809586287677531/2.jpg?ex=663cff82&is=663bae02&hm=bf15023937532013042156420270d0e33af32bacbb069396ea947578fc77f504&=&format=webp))
+![doorpy.bot]([![image](https://github.com/TheDaylinHe/Doorpy/assets/155059575/d2294bb2-f659-43a0-adf9-471d8bb76aae)
+))
