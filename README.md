@@ -3,14 +3,14 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 > version -- 1.0.0
 
 ### _Commands (комманды):
- 1. **Admin Commands**
+ 1. **Admin <sup>Commands</sup>**
 * `/AddPremium`
 * `/RemovePremium`
   1) ***Administration Logs***
 * `/PremiumLogs`
- 2. **Dashboard Commands**
+ 2. **Dashboard <sup>Commands</sup>**
 * `/Profile`
- 3. **Optional Commands**
+ 3. **Optional <sup>Commands</sup>**
 * `/Info`
 * `/BuyPremium`
 * `/GitHub`
@@ -34,5 +34,5 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/UserAvatar`
 * `/Warns`
 * `/Music`
-  1) ***Game Commands***
+  1) ***Games***
 * `/FoggyNightGame`
