@@ -4,12 +4,11 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 
 _Commands (комманды):
 * Admin Commands
-= /AddPremium
-= /RemovePremium
-=
-=
-=
-=
-=
-=
-=
+$ /AddPremium
+$ /RemovePremium
+$
+$
+$
+$
+$
+$
