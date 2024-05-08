@@ -51,5 +51,4 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 ```
 * `/FoggyNightGame`
 ```
-![doorpy.bot]([![image](https://github.com/TheDaylinHe/Doorpy/assets/155059575/d2294bb2-f659-43a0-adf9-471d8bb76aae)
-))
+![doorpy.bot](https://github.com/TheDaylinHe/Doorpy/assets/155059575/d2294bb2-f659-43a0-adf9-471d8bb76aae)
