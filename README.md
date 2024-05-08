@@ -6,7 +6,7 @@ _Commands (комманды):
  1. **Admin Commands**
 * `/AddPremium`
 * `/RemovePremium`
-1.2) ***Administration Logs***
+  1) ***Administration Logs***
 * `/PremiumLogs`
  2. **Dashboard Commands**
 * `/Profile`
@@ -33,5 +33,5 @@ _Commands (комманды):
 * `/UserAvatar`
 * `/Warns`
 * `/Music`
-5.2) ***Game Commands***
+  1) ***Game Commands***
 * `/FoggyNightGame`
