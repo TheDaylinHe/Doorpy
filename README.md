@@ -14,7 +14,7 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 ```
  2. **Dashboard <sup>Commands</sup>**
 ```
-* `/Profile`
+* `/Profile {doorpy.pro}`
 ```
  4. **Optional <sup>Commands</sup>**
 ```
@@ -26,8 +26,8 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 ```
  5. **Moderation <sup>Commands</sup>**
 ```
-* `/JoinVoice`
-* `/LeaveVoice`
+* `/JoinVoice {doorpy.pro}`
+* `/LeaveVoice {doorpy.pro}`
 * `/Ban`
 * `/Unban`
 * `/Kick`
@@ -41,11 +41,11 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 
  6. **Other <sup>Commands</sup>**
 ```
-* `/ServerInfo`
-* `/UserInfo`
+* `/ServerInfo {doorpy.pro}`
+* `/UserInfo {doorpy.pro}`
 * `/UserAvatar`
 * `/Warns`
-* `/Music`
+* `/Music {doorpy.pro}`
 ```
   1) ***Games***
 ```
