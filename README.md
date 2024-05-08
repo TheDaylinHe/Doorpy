@@ -7,7 +7,9 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 ```
 * `/AddPremium`
 * `/RemovePremium`
+```
   1) ***Administration Logs***
+```
 * `/PremiumLogs`
 ```
  2. **Dashboard <sup>Commands</sup>**
@@ -34,8 +36,9 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/Warn`
 * `/ClearWarns`
 * `/Clear`
-  1) ~~***Automod***~~
 ```
+  1) ~~***Automod***~~
+
  6. **Other <sup>Commands</sup>**
 ```
 * `/ServerInfo`
@@ -43,6 +46,8 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/UserAvatar`
 * `/Warns`
 * `/Music`
+```
   1) ***Games***
+```
 * `/FoggyNightGame`
 ```
