@@ -6,7 +6,7 @@ _Commands (комманды):
  1. **Admin Commands**
 * `/AddPremium`
 * `/RemovePremium`
-1.1. *Administration Logs*
+ 1. *Administration Logs*
 * `/PremiumLogs`
 2. **Dashboard Commands**
 * `/Profile`
