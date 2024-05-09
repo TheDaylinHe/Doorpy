@@ -2,8 +2,7 @@
 !!!РЕПОЗИТОРИЙ GITHUB СЕЙЧАС В РАЗРАБОТКЕ!!!
 
 Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
-
-[Купить подписку {doorpy.pro}](https://www.doorpy.xyz/doorpy-pro)
+* [Купить подписку {doorpy.pro}](https://www.doorpy.xyz/doorpy-pro)
 > version -- 1.0.0
 
 ### _Commands (комманды):
