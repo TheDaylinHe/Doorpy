@@ -11,7 +11,8 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/AddPremium`
 * `/RemovePremium`
 ```
-  1) ***Administration Logs***
+
+  1.2 ***Administration Logs***
 ```
 * `/PremiumLogs`
 ```
@@ -40,7 +41,8 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/ClearWarns`
 * `/Clear`
 ```
-  1) ~~***Automod***~~
+
+  5.2 ~~***Automod***~~
 
  6. **Other <sup>Commands</sup>**
 ```
@@ -50,7 +52,8 @@ Doorpy (doorpy.bot) нововведения. | https://www.doorpy.xyz
 * `/Warns`
 * `/Music {doorpy.pro}`
 ```
-  1) ***Games***
+
+  6.2 ***Games***
 ```
 * `/FoggyNightGame`
 ```
